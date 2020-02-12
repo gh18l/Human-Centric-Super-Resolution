@@ -30,27 +30,20 @@ There are some rendering result in MPII dataset. The input configuration is **a 
 
 ### model reconstruction results
 <p align="center">
-	<img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/1.PNG" alt="Sample" width="500">
+	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.gif" alt="Sample" width="500">
 </p>
 
 ### final results
 <p align="center">
-	<img src="https://github.com/li19960612/SMPLify_TF_BundleAdjustment/blob/master/demo/4.PNG" alt="Sample"  width="500">
-  <img src="https://v.youku.com/v_show/id_XNDU0MjM1NDY2NA==.html" alt="Sample"  width="500">
+	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.gif" alt="Sample"  width="500">
+	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.gif" alt="Sample"  width="500">
 
 </p>
 
 And There are also some visual results captured with our hybrid camera system similar to Hikvision surveillance.
 
 ### model reconstruction results
-<p align="center">
-	<img src="https://github.com/li19960612/SMPLify_TF_BundleAdjustment/blob/master/demo/2.PNG" alt="Sample" width="500">
-</p>
 
 ### final results
-<p align="center">
-	<img src="https://github.com/li19960612/SMPLify_TF_BundleAdjustment/blob/master/demo/4.PNG" alt="Sample"  width="500">
-  <img src="https://github.com/li19960612/SMPLify_TF_BundleAdjustment/blob/master/demo/1.gif" alt="Sample"  width="500">
-  <img src="https://github.com/li19960612/SMPLify_TF_BundleAdjustment/blob/master/demo/2.gif" alt="Sample"  width="500">
-</p>
+
 
