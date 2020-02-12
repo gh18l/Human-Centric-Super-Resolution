@@ -34,12 +34,9 @@ There are some rendering result in MPII dataset. The input configuration is **a 
 </p>
 
 ### final results
-<p align="center">
-	<video id="video" controls="" preload="none" poster="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1_Momen.jpg">
-      <source id="mp4" src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.mp4" type="video/mp4" auto=1>
+<video id="video" controls="" preload="none">
+      <source id="mp4" src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.mp4" type="video/mp4">
       </video>
-
-</p>
 
 And There are also some visual results captured with our hybrid camera system similar to Hikvision surveillance.
 
