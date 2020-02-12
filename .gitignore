@@ -1,0 +1,8 @@
+q.log/
+.idea/
+*.json
+*.sh
+*.pyc
+Data/
+demo/
+

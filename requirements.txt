@@ -1,0 +1,5 @@
+tensorflow-gpu
+opencv-python
+pickle
+json
+scipy
