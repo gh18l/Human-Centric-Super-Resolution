@@ -30,13 +30,13 @@ There are some rendering result in MPII dataset. The input configuration is **a 
 
 ### model reconstruction results
 <p align="center">
-	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media6.gif" alt="Sample" width="500">
+	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.mp4" alt="Sample" width="500">
 </p>
 
 ### final results
 <p align="center">
-	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media6.gif" alt="Sample"  width="500">
-	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media6.gif" alt="Sample"  width="500">
+	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.mp4" alt="Sample"  width="500">
+	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.mp4" alt="Sample"  width="500">
 
 </p>
 
