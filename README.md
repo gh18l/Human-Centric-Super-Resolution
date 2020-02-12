@@ -35,8 +35,9 @@ There are some rendering result in MPII dataset. The input configuration is **a 
 
 ### final results
 <p align="center">
-	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.mp4" alt="Sample"  width="500">
-	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.mp4" alt="Sample"  width="500">
+	<video id="video" controls="" preload="none" poster="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1_Momen.jpg">
+      <source id="mp4" src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/Human_Render/media1.mp4" type="video/mp4" auto=1>
+      </video>
 
 </p>
 
