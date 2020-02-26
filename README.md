@@ -33,14 +33,10 @@ There are some rendering result in MPII dataset. The input configuration is **a 
 
 <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/LR2.gif" width="200"> <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/model2.gif" width="200"> <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/texture2.gif" width="200">
 
-<img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/LR3.gif" width="200"> <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/model3.gif" width="200"> <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/texture3.gif" width="200">
-
-
 And There are also some visual results captured with our hybrid camera system similar to Hikvision surveillance.
 
-### model reconstruction results
-
-### final results
+### The results in real scene
+<img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/LR3.gif" width="200"> <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/model3.gif" width="200"> <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/texture3.gif" width="200">
 
 ## TODO
 + 关于展示的形式，github上放上mpii和real的图片（视频mp4文件放不上去，gif文件又太大），2*2摆放，分别是原图，模型图，渲染图。真实图。在显要的位置处放上视频的超链接，视频为所有实验连接在一起。
