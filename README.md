@@ -30,7 +30,7 @@ There are some rendering result in MPII dataset. The input configuration is **a 
 
 ### The results of MPII dataset 
 <p align="center">
-	<img src="https://personal-1301265575.cos.ap-shenzhen-fsi.myqcloud.com/2020-02-26/model3.gif" alt="Sample" width="500">
+	<img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/model.gif" alt="Sample" width="500">
 </p>
 
 
