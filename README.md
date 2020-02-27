@@ -39,6 +39,9 @@ And There are also some visual results captured with our hybrid camera system si
 ### The results in real scene
 <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/LR3.gif" width="400" alt="origin"> <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/model3.gif" width="400" alt="model">
 
+<img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/LR4.gif" width="400" alt="origin"> <img src="https://github.com/li19960612/Human_Model_Render/blob/master/demo/model4.gif" width="400" alt="model">
+
+
 
 
 
